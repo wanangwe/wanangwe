@@ -1,24 +1,22 @@
+    from life import Creativity
+    class Life(Creativity):
 
+        def __init_life__(self):
+             self.current_job_title = "Software Enginneer"
+             self.open_for_opportunity = True
+             self.current_company = "Softech Solutions Africa"
 
-from life import Creativity
-
-class Life(Creativity):
-    def __init_life__(self):
-        self.current_job_title = "Software Enginneer"
-        self.open_for_opportunity = True
-        self.current_company = "Softech Solutions Africa"
-
-    def current_projects(self):
-        self.currently_learning = "Algorithms and Data Structures 📚"
-        self.currently_working_on = "Ordering App aka Uber Eats clone ⚡"
-        self.excited_for = "Data Mining 🌎"
+        def current_projects(self):
+            self.currently_learning = "Algorithms and Data Structures 📚"
+            self.currently_working_on = "Ordering App aka Uber Eats clone ⚡"
+            self.excited_for = "Data Mining 🌎"
     
-    def contact_me(self):
-        self.email = "wanangwem@gmail.com"
+        def contact_me(self):
+            self.email = "wanangwem@gmail.com"
  
-if '__repo__' == '__helpful__':
-    star.it()
-    fork.it()
+        if '__repo__' == '__helpful__':
+            star.it()
+            fork.it()
 
 <!--
 **wanangwe/wanangwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
