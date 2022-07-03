@@ -1,3 +1,5 @@
+    ```python
+    
     from life import Creativity
     class Life(Creativity):
 
@@ -17,7 +19,7 @@
         if '__repo__' == '__helpful__':
             star.it()
             fork.it()
-
+```
 <!--Social Channel-->
 
 <a href="https://www.linkedin.com/in/wanangwe/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
